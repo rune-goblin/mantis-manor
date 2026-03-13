@@ -1,20 +1,21 @@
 {
-  "id": "marks-motm-maps",
-  "title": "Mark's Mark of the Mantis Maps",
-  "description": "Maps for Mark of the Mantis, the PF2E standalone adventure - redone.  Assets by Forgottten-Adventures.net and Tom Cartos.",
-  "version": "2.0.0",
+  "id": "mantis-manor",
+  "title": "Mantis Manor",
+  "description": "Maps for Mark of the Mantis, the PF2E standalone adventure. Assets by Forgotten-Adventures.net and Tom Cartos.",
+  "version": "3.0.0",
   "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "compatibility": {
-    "minimum": 10
+    "minimum": 12,
+    "verified": 13
   },
   "packs": [
     {
-      "name": "marks-motm-maps",
-      "label": "Mark's MotM Maps",
-      "path": "./packs/marks-motm-maps.db",
+      "name": "mantis-manor-scenes",
+      "label": "Mantis Manor Scenes",
+      "path": "packs/mantis-manor-scenes",
       "type": "Scene"
     }
   ],
-  "manifest": "https://github.com/MarkPearce/marks-motm-maps/releases/latest/download/module.json",
-  "download": "https://github.com/MarkPearce/marks-motm-maps/releases/latest/download/marks-motm-maps.zip"
+  "manifest": "https://github.com/MarkPearce/mantis-manor/releases/latest/download/module.json",
+  "download": "https://github.com/MarkPearce/mantis-manor/releases/latest/download/mantis-manor.zip"
 }

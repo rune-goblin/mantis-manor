@@ -1,1 +1,16 @@
-/mmotmm.zip
+.DS_Store
+*.zip
+
+# Compiled LevelDB packs (Foundry generates from _source/)
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
+packs/**/*.log
+
+# Auto-generated thumbnails
+assets/
+
+# Development
+node_modules/
+package.json
+package-lock.json
