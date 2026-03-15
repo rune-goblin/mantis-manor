@@ -17,6 +17,6 @@
       "type": "Scene"
     }
   ],
-  "manifest": "https://github.com/MarkPearce/mantis-manor/releases/latest/download/module.json",
-  "download": "https://github.com/MarkPearce/mantis-manor/releases/latest/download/mantis-manor.zip"
+  "manifest": "https://github.com/rune-goblin/mantis-manor/releases/latest/download/module.json",
+  "download": "https://github.com/rune-goblin/mantis-manor/releases/latest/download/mantis-manor.zip"
 }
