@@ -1,6 +1,7 @@
 # Mantis Manor
 
-Scene maps for **Mark of the Mantis**, the PF2E standalone adventure.
+Scene maps for the PF2E standalone adventure **Mark of the Mantis**
+Also suitable as a wealthy manor-house for any game. 
 
 Assets by [Forgotten Adventures](https://forgotten-adventures.net) and [Tom Cartos](https://www.patreon.com/tomcartos).
 
