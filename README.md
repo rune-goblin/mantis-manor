@@ -1,5 +1,7 @@
 # Mantis Manor
 
+![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/rune-goblin/mantis-manor/total)
+
 Scene maps for the PF2E standalone adventure **Mark of the Mantis**
 Also suitable as a wealthy manor-house for any game. 
 
