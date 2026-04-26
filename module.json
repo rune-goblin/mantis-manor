@@ -2,12 +2,12 @@
   "id": "mantis-manor",
   "title": "Mantis Manor",
   "description": "Maps for Mark of the Mantis, the PF2E standalone adventure. Assets by Forgotten-Adventures.net and Tom Cartos.",
-  "version": "3.1.1",
+  "version": "3.2.0",
   "license": "LICENSE",
   "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
   "compatibility": {
-    "minimum": 12,
-    "verified": 13
+    "minimum": "12",
+    "verified": "14"
   },
   "packs": [
     {
