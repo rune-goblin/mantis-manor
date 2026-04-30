@@ -4,9 +4,14 @@
   "description": "Maps for Mark of the Mantis, the PF2E standalone adventure. Assets by Forgotten-Adventures.net and Tom Cartos.",
   "version": "3.2.0",
   "license": "LICENSE",
-  "authors": [{ "name": "Mark Pearce", "discord": "Mark Pearce#2772" }],
+  "authors": [
+    {
+      "name": "Mark Pearce",
+      "discord": "Mark Pearce#2772"
+    }
+  ],
   "compatibility": {
-    "minimum": "12",
+    "minimum": "13",
     "verified": "14"
   },
   "packs": [
